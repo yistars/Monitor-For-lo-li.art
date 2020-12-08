@@ -1,6 +1,6 @@
 # Monitor-For-lo-li.art
- lo-li.art 服务器监控客户端
 * 适用平台：Windows、Linux
+* 监控服务：https://status.lo-li.art
 
 ## 使用方法
 
