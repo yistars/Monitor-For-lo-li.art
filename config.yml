@@ -1,0 +1,3 @@
+- Send:
+    time: 10
+    url: https://status.lo-li.art/update.php
