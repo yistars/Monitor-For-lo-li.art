@@ -34,4 +34,4 @@
 1. `cd` 到程序目录
 2. 使用 `screen npm start` 命令
 3. 使用 `screen -S python ./main.py` 命令
-4. 同时按下 `Ctrl + A +D` 退出
+4. 同时按下 `Ctrl + A + D` 退出
