@@ -1,5 +1,6 @@
 # Monitor-For-lo-li.art
  lo-li.art 服务器监控客户端
+* 适用平台：Windows、Linux
 
 ## 使用方法
 
@@ -14,6 +15,16 @@
 2. 将程序放在服务器任意位置
 3. 使用 `python main.py` 运行程序
 4. 你可以在 `config.yml` 中修改配置文件
+
+## 配置文件
+程序所有的配置都储存在 `config.yml` 文件中，你可以使用编辑器打开它：
+```
+- Send:
+    # 发送本机监控数据间隔时间（单位：秒）
+    time: 10
+    # 监控服务器地址
+    url: https://status.lo-li.art/update.php
+```
 
 ## 隐私安全
 ### 程序将会采集什么？
